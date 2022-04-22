@@ -1,1 +1,1 @@
-# uvv_bd_1_si1n
+# Projeto criado para estudo e documentação da disciplina de Banco de Dados
